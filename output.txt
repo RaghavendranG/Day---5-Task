@@ -1,0 +1,63 @@
+//Print odd numbers in an array using anonymous function
+Odd numbers in an array using anonymous function = 1,3,5,7
+---------------------------------------------------------------------------------
+//Print odd numbers in an array using IIFE
+Odd numbers in an array using IIFE = 1,3,5,7
+---------------------------------------------------------------------------------
+//Convert all the strings to title caps in a string array using anonymous function
+Strings to title caps in a string array using anonymous function = John,Doe,Fred,Freddy
+---------------------------------------------------------------------------------
+//Convert all the strings to title caps in a string array using IIFE
+Strings to title caps in a string array using IIFE = John,Doe,Fred,Freddy
+---------------------------------------------------------------------------------
+//Sum of all numbers in an array using anonymous function
+Sum of all numbers in an array using anonymous function = 28
+---------------------------------------------------------------------------------
+//Sum of all numbers in an array using IIFE
+Sum of all numbers in an array using IIFE = 28
+---------------------------------------------------------------------------------
+//Return all the prime numbers in an array using anonymous function
+Prime numbers in an array using anonymous function = 2,3,5,7
+---------------------------------------------------------------------------------
+//Return all the prime numbers in an array using IIFE
+Prime numbers in an array using IIFE = 2,3,5,7
+---------------------------------------------------------------------------------
+//Return all the palindromes in an array using anonymous function
+Palindromes in an array using anonymous function = 101,202,222,545
+---------------------------------------------------------------------------------
+//Return all the palindromes in an array using IIFE
+Palindromes in an array using IIFE= 101,202,222,545
+---------------------------------------------------------------------------------
+//Return median of two sorted arrays of the same size using anonymous function
+Median of two sorted arrays using anonymous function = 5.5
+---------------------------------------------------------------------------------
+//Return median of two sorted arrays of the same size using IIFE
+Median of two sorted arrays using IIFE = 5.5
+---------------------------------------------------------------------------------
+//Remove duplicates from an array using anonymous function
+Remove duplicates from an array using anonymous function = John,doe,fred,freddy
+---------------------------------------------------------------------------------
+//Remove duplicates from an array using IIFE
+Remove duplicates from an array using IIFE = John,doe,fred,freddy
+---------------------------------------------------------------------------------
+//Rotate an array by k times using anonymous function 
+Rotate an array by k times using anonymous function = 4,5,1,2,3
+---------------------------------------------------------------------------------
+//Rotate an array by k times using IIFE 
+Rotate an array by k times using IIFE = 3,4,5,1,2
+---------------------------------------------------------------------------------
+//Print odd numbers in an array using arrow function
+Odd numbers in an array using arrow function = 1,3,5,7
+---------------------------------------------------------------------------------
+//Convert all the strings to title caps in a string array using arrow function
+Strings to title caps using arrow function = John,Doe,Fred,Freddy
+---------------------------------------------------------------------------------
+//Sum of all numbers in an array using arrow function
+Sum of all numbers in an array using arrow function = 28
+---------------------------------------------------------------------------------
+//Return all the prime numbers in an array using arrow function
+Prime numbers in an array using arrow function = 2,3,5,7
+---------------------------------------------------------------------------------
+//Return all the palindromes in an array using arrow function
+Palindromes in an array using arrow function = 101,202,222,545
+---------------------------------------------------------------------------------
